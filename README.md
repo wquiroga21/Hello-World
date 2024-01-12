@@ -9,6 +9,8 @@ You can watch a demo of my softwre here:
 
 * Visual Studio Code
 * JavaScript
+* NodeJS (for running the server-side code in development)
+* HTML
 * Git / GitHub
 
 # Useful Websites
